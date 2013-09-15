@@ -1,4 +1,0 @@
-phonegaptest
-============
-
-Prófa phonegap
